@@ -30,4 +30,4 @@
 
 ---
 
-> 🧭 “Leadership is not a position or a title, it is action and example.”  
+> 🧭 “No pretending. Just real.”  
