@@ -1,3 +1,5 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asleep17&show_icons=true&theme=vue-dark)
+
 # 👋 Hello there, I'm Krist Pun!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Passionate+about+Tech+and+Data+Science;Always+Learning+Something+New!&width=500)](https://git.io/typing-svg)
