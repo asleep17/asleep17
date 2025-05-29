@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asleep17&show_icons=true&theme=vue-dark)
+
 
 # 👋 Hello there, I'm Krist Pun!
 
