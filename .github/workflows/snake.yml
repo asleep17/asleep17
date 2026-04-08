@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # daily at midnight
+    - cron: "0 0 * * *"  # runs daily
   workflow_dispatch:
 
 jobs:
@@ -12,7 +12,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-
 
       - name: Generate snake animation
         uses: Platane/snk@v3
