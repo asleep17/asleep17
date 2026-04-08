@@ -18,9 +18,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-![snake gif](https://github.com/asleep17/asleep17/blob/output/github-snake.svg)
+![snake gif](https://raw.githubusercontent.com/asleep17/asleep17/output/github-snake.svg)
 
 ---
 
