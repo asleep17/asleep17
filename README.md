@@ -19,8 +19,19 @@
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asleep17&show_icons=true&theme=radical&hide=prs,contribs&show=reviews,discussions_started,prs_merged)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asleep17&show_icons=true&theme=tokyonight&hide=prs,contribs&show=reviews,discussions_started,prs_merged" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asleep17&layout=compact&theme=tokyonight" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=asleep17&theme=tokyonight" height="160"/>
+
+</div>
 
 ---
 
