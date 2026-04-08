@@ -1,8 +1,7 @@
 <div align="center">
 
 # 👋 Hey, I'm Krist Pun
-
-[![Typing SVG](https://readme-typing-svg.demolay.com/?lines=Software+Engineering+Student;Passionate+about+Tech+%26+Data+Science;Always+Building.+Always+Learning.;&width=500&color=00D4FF&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineering+Student;Passionate+about+Tech+%26+Data+Science;Always+Building.+Always+Learning.;&width=500&color=00D4FF&center=true)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/krist-pun-a15a28299/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
