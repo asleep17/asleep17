@@ -19,23 +19,18 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asleep17&show_icons=true&theme=tokyonight&hide=prs,contribs&show=reviews,discussions_started,prs_merged" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asleep17&layout=compact&theme=tokyonight" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=asleep17&theme=tokyonight" height="160"/>
-
-</div>
+- uses: Platane/snk@v3
+  with:
+    github_user_name: ${{ github.repository_owner }}
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
 
 ---
-## Music
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2nq3z2lt65evoftik7fk2o64e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31c2nq3z2lt65evoftik7fk2o64e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" width="400"/>
+</a>
 ## 📫 How to Reach Me  
 - 📧 Email: kristpun13@example.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/krist-pun-a15a28299/)  
